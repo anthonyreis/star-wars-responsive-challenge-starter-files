@@ -1,0 +1,17 @@
+.row p{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+header{
+	background-color: #eebb44;
+	height: 100%;
+	width: 100%;
+}
+h1{
+	font-size: 32px;
+	margin-bottom: 0;
+	padding-left: 10px;
+}
+header .row p{
+	padding-left: 10px;
+}
